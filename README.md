@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=HarshithAlva6&color=blue)****
 <!--
 **HarshithAlva6/HarshithAlva6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
