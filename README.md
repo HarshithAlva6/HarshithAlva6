@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a Software Engineer with over 4 years of expe
 
 ## Skills & Technologies
 
-- **Languages**: Python, JavaScript (ReactJS, TypeScript), Go
+- **Languages**: Python, JavaScript (ReactJS, TypeScript), Java
 - **Web Development**: Next.js, Express.js, ReactJS, Tailwind CSS, Mantine
 - **Databases**: MySQL, MongoDB, Prisma, Firebase
 - **Cloud Platforms**: AWS, Google Cloud
