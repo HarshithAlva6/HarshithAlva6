@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a Software Engineer with over 4 years of expe
 ### UI/UX Designer at BizInc
 - Streamlining design processes using Figma to create intuitive, user-centric designs.
 
-### Web Application Developer at MindKind
+### Web Application Developer at LME Services
 - Developed dynamic and scalable web applications for healthcare solutions.
 
 ### Software Engineer at Danske IT (Infosys)
