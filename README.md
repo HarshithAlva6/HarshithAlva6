@@ -39,6 +39,9 @@ Welcome to my GitHub profile! I am a Software Engineer with over 4 years of expe
 ### Web Application Developer at LME Services
 - Developed dynamic and scalable web applications for healthcare solutions.
 
+### Full Stack Developer Intern at Uber
+- Optimized existing geospatial algorithms at Uber leveraging Mapbox and Google Maps APIs to improve location accuracy and performance across map-based systems.
+  
 ### Software Engineer at Danske IT (Infosys)
 - Worked on legacy systems modernization and automation, focusing on full-stack development.
 
