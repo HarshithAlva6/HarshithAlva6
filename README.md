@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm Harshith Harijeevan, Software Engineer / Full Stack Developer / AI Enthusiast, you name it!
+# 👋 Hello, I'm Harshith Harijeevan!
 
 Welcome to my GitHub! I’m a software engineer with a love for full-stack development, cloud systems, and AI-driven features that make tech more intuitive. With over four years of experience across startups and global tech teams, I’ve built scalable platforms, modernized legacy systems, and recently, explored AI applications in real-world workflows.
 
