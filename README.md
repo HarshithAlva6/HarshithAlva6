@@ -1,4 +1,3 @@
-## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=HarshithAlva6&color=blue&style=plastic)
 <!--
 **HarshithAlva6/HarshithAlva6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,47 +14,86 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Harshith Harijeevan - Software Engineer & Developer
+# 👋 Hello, I'm Harshith Harijeevan, Software Engineer / Full Stack Developer / AI Enthusiast, you name it!
 
-Welcome to my GitHub profile! I am a Software Engineer with over 4 years of experience specializing in full-stack development, UI/UX design, and modern web technologies. I hold a Master's degree in Computer Science from California State University, Fullerton, and am passionate about building impactful applications, exploring new technologies, and optimizing user experiences.
+Welcome to my GitHub! I’m a software engineer with a love for full-stack development, cloud systems, and AI-driven features that make tech more intuitive. With over four years of experience across startups and global tech teams, I’ve built scalable platforms, modernized legacy systems, and recently, explored AI applications in real-world workflows.
 
-## Skills & Technologies
+Whether it's identifying dishes from food photos using neural nets, transforming user notes into smart quizzes, or modernizing COBOL apps into React microservices, I’m driven by impact, performance, and elegant design.
 
-- **Languages**: Python, JavaScript (ReactJS, TypeScript), Java
-- **Web Development**: Next.js, Express.js, ReactJS, Tailwind CSS, Mantine
-- **Databases**: MySQL, MongoDB, Prisma, Firebase
-- **Cloud Platforms**: AWS, Google Cloud
-- **Tools**: Jest, Figma, Selenium, BeautifulSoup
-- **Other**: WebSockets, Automation, API Integration
+📍 Austin, TX  
+🎓 M.S. Computer Science, CSU Fullerton  
+🌐 [Portfolio](https://harshalva.netlify.app) | [LinkedIn](https://www.linkedin.com/in/harshith-harijeevan-ba796616b/) | [GitHub](https://github.com/HarshithAlva6)
 
-## Professional Experience
+---
 
-### Software Engineer at Mosaiq Software
-- Building a Trello-like board with ReactJS, Mantine, WebSockets, and MongoDB.
+### 🧰 Tech Stack Snapshot
 
-### UI/UX Designer at BizInc
-- Streamlining design processes using Figma to create intuitive, user-centric designs.
+**Languages**  
+JavaScript, TypeScript, Python, Java, COBOL
 
-### Web Application Developer at LME Services
-- Developed dynamic and scalable web applications for healthcare solutions.
+**Frontend**  
+React, Next.js, Tailwind CSS, Mantine, Redux
 
-### Full Stack Developer Intern at Uber
-- Optimized existing geospatial algorithms at Uber leveraging Mapbox and Google Maps APIs to improve location accuracy and performance across map-based systems.
-  
-### Software Engineer at Danske IT (Infosys)
-- Worked on legacy systems modernization and automation, focusing on full-stack development.
+**Backend**  
+Node.js, Express, Flask, Spring Boot
 
-## Key Projects
+**Databases**  
+MongoDB, PostgreSQL, MySQL, Prisma, Firebase
 
-- **[Form Builder App](#)**: A drag-and-drop form builder designed for physicians to create, manage, and assign custom surveys to patients using React and MongoDB.
-- **[To-Do App](#)**: A full-stack app with task management features built using MySQL, Prisma, and Next.js.
-- **[Legacy Modernization](#)**: A project to modernize legacy systems, with a focus on automation and efficiency.
+**Cloud & DevOps**  
+AWS (EC2, Lambda, RDS, S3), Azure DevOps, Docker, Kubernetes, GitHub Actions, Terraform
 
-## Interests & Goals
+**Tools & Extras**  
+GraphQL, WebSockets, Kafka, Jest, Selenium, Figma, BeautifulSoup, Mapbox, LangChain, HuggingFace, TensorFlow.js
 
-- Passionate about **Japan** and its culture.
-- Interested in **data analytics**, **AI-driven solutions**, and **full-stack application development**.
-- Continuously improving my skills and contributing to open-source projects.
+---
 
-Feel free to check out my repositories and reach out if you'd like to collaborate on exciting projects!
+### 💼 Work Highlights
+
+**BizInc**  
+Architected an AWS-based employer portal to streamline hiring. Improved frontend speed with MongoDB indexing and enhanced UX with A/B testing and accessibility improvements.
+
+**Mosaiq Software**  
+Currently building a collaborative, Trello-like board using React, Mantine UI, MongoDB, and WebSockets for real-time task tracking.
+
+**LME Services**  
+Led redesign of B2C application that provides small business deals to end customers using Next.js and Tailwind. Refactored APIs and auth to handle scale, latency, and security with Terraform and OAuth.
+
+**Uber (Intern)**  
+Improved ride-matching by optimizing Kafka pipelines and geolocation accuracy using Mapbox. Migrated REST APIs to GraphQL to reduce data payload and response time.
+
+**Danske IT (Infosys)**  
+Modernized banking systems by rewriting COBOL modules in React and Spring Boot. Automated reporting tasks and enhanced CI/CD reliability using GitLab and Azure tools.
+
+---
+
+### 🚀 Projects That Inspire Me
+
+**🧠 AI Note Quiz Generator**  
+Transform any learning notes into personalized quizzes with LLMs. Powered by LangChain and HuggingFace, this tool supports spaced repetition to maximize memory retention.
+
+**🍽️ Food Image Classifier and Recipe Assistant**  
+Built an AI-powered app that identifies dishes from images using an EfficientNet-based neural network. Once recognized, the app fetches accurate, step-by-step recipe instructions using custom logic and prompt generation.
+
+**🦉 Duolingo XP Tracker**  
+A fun automation project that scrapes Duolingo user stats and tracks XP using BeautifulSoup. Sends reminders if you're close to breaking your streak.
+
+**📷 Secure Image Sharing Platform**  
+A media sharing platform with React, Spring Boot, and Blockchain-based authentication. Integrated TensorFlow.js for real-time content moderation with image classifiers.
+
+**📊 Legacy System Workflow Automation**  
+At Danske Bank, automated COBOL-based batch operations using Python and Selenium scripts, saving hours of manual labor weekly.
+
+---
+
+### 🎯 Interests & Fun Facts
+
+- Enthusiast of Japanese culture, minimalist UI, and clean code  
+- Always experimenting with how AI can power education, health, and everyday life  
+- Open-source believer and active learner in areas like system design and LLM fine-tuning  
+- Happy to collaborate on impactful side projects or just talk tech over coffee
+
+---
+
+> Thanks for visiting! Explore the pinned repositories below or shoot me a message if something piqued your interest.
 
