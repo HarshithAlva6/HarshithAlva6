@@ -22,7 +22,7 @@ Whether it's identifying dishes from food photos using neural nets, transforming
 
 📍 Austin, TX  
 🎓 M.S. Computer Science, CSU Fullerton  
-🌐 [Portfolio](https://harshalva.netlify.app) | [LinkedIn](https://www.linkedin.com/in/harshith-harijeevan-ba796616b/) | [GitHub](https://github.com/HarshithAlva6)
+🌐 [Portfolio](https://harshalva.netlify.app) | [LinkedIn](https://www.linkedin.com/in/harshith-harijeevan-ba796616b/)
 
 ---
 
