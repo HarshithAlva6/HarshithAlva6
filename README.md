@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Harshith Harijeevan!
 
-Welcome to my GitHub! I’m a software engineer with a love for full-stack development, cloud systems, and AI-driven features that make tech more intuitive. With over four years of experience across startups and global tech teams, I’ve built scalable platforms, modernized legacy systems, and recently, explored AI applications in real-world workflows.
+Welcome to my GitHub! I’m a software engineer with a love for full-stack development, cloud systems, and AI-driven features that make tech more intuitive. With over four years of experience across startups and global tech teams, I’ve built scalable platforms, modernized legacy systems, and recently, explored AI applications in real-world workflows. Currently working at InterspectAI.
 
 Whether it's identifying dishes from food photos using neural nets, transforming user notes into smart quizzes, or modernizing COBOL apps into React microservices, I’m driven by impact, performance, and elegant design.
 
