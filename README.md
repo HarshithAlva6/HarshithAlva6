@@ -50,7 +50,8 @@ GraphQL, WebSockets, Kafka, Jest, Selenium, Figma, BeautifulSoup, Mapbox, LangCh
 
 ### 💼 Work Highlights
 
-**InterspectAI** 
+**InterspectAI**   
+
 Working on the Spectra Core Application on the Admin section of the website. Architected the setup from its inception.
 
 **BizInc**  
