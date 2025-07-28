@@ -50,6 +50,9 @@ GraphQL, WebSockets, Kafka, Jest, Selenium, Figma, BeautifulSoup, Mapbox, LangCh
 
 ### 💼 Work Highlights
 
+**InterspectAI**
+Working on the Spectra Core Application on the Admin section of the website. Architected the setup from its inception.
+
 **BizInc**  
 Architected an AWS-based employer portal to streamline hiring. Improved frontend speed with MongoDB indexing and enhanced UX with A/B testing and accessibility improvements.
 
