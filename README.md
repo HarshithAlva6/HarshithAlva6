@@ -59,12 +59,6 @@ Architected an AWS-based employer portal to streamline hiring. Improved frontend
 **Mosaiq Software**  
 Currently building a collaborative, Trello-like board using React, Mantine UI, MongoDB, and WebSockets for real-time task tracking.
 
-**LME Services**  
-Led redesign of B2C application that provides small business deals to end customers using Next.js and Tailwind. Refactored APIs and auth to handle scale, latency, and security with Terraform and OAuth.
-
-**Uber (Intern)**  
-Improved ride-matching by optimizing Kafka pipelines and geolocation accuracy using Mapbox. Migrated REST APIs to GraphQL to reduce data payload and response time.
-
 **Danske IT (Infosys)**  
 Modernized banking systems by rewriting COBOL modules in React and Spring Boot. Automated reporting tasks and enhanced CI/CD reliability using GitLab and Azure tools.
 
