@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Harshith Harijeevan!
 
-Welcome to my GitHub! I’m a software engineer with a love for full-stack development, cloud systems, and AI-driven features that make tech more intuitive. With over four years of experience across startups and global tech teams, I’ve built scalable platforms, modernized legacy systems, and recently, explored AI applications in real-world workflows. Currently working at InterspectAI.
+Welcome to my GitHub! I’m a software engineer with a love for full-stack development, iOS App, cloud systems, and AI-driven features that make tech more intuitive. With over four years of experience across startups and global tech teams, I’ve built scalable platforms, modernized legacy systems, and recently, explored AI applications in real-world workflows.
 
-Whether it's identifying dishes from food photos using neural nets, transforming user notes into smart quizzes, or modernizing COBOL apps into React microservices, I’m driven by impact, performance, and elegant design.
+Whether it's identifying dishes from food photos using neural nets, transforming user notes into smart quizzes on iOS and React, or modernizing COBOL apps into React microservices, I’m driven by impact, performance, and elegant design.
 
 📍 Austin, TX  
 🎓 M.S. Computer Science, CSU Fullerton  
@@ -29,16 +29,16 @@ Whether it's identifying dishes from food photos using neural nets, transforming
 ### 🧰 Tech Stack Snapshot
 
 **Languages**  
-JavaScript, TypeScript, Python, Java, COBOL
+Swift, JavaScript, TypeScript, Python, Java, COBOL
 
 **Frontend**  
-React, Next.js, Tailwind CSS, Mantine, Redux
+React, Next.js, SwiftUI, UIKit, Tailwind CSS, Mantine, Redux
 
 **Backend**  
 Node.js, Express, Flask, Spring Boot
 
 **Databases**  
-MongoDB, PostgreSQL, MySQL, Prisma, Firebase
+MongoDB, PostgreSQL, MySQL, Prisma, Firebase, CromaDB
 
 **Cloud & DevOps**  
 AWS (EC2, Lambda, RDS, S3), Azure DevOps, Docker, Kubernetes, GitHub Actions, Terraform
